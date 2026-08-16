@@ -1,18 +1,33 @@
-# React + Vite
+# Portfólio Pessoal- CIn UFPE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto desenvolvido para a disciplina de Desenvolvimento de Software do CIn (Centro de Informática - UFPE).
 
-Currently, two official plugins are available:
+# Acesse a aplicação no ar: https://www.cin.ufpe.br/~jpmcs/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+#  Tecnologias Utilizadas
+- React (Biblioteca para interface)
+- Vite (Ferramenta de build e desenvolvimento)
+- JavaScript / HTML / CSS
+- Git & GitHub (Controle de versão)
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+---
 
-Note: This will impact Vite dev & build performances.
+# Como rodar o projeto localmente
 
-## Expanding the ESLint configuration
+1. Clone o repositório:
+   ```bash
+   git clone [https://github.com/JpSant0ss/Trabalho-DS-site-CIn-.git](https://github.com/JpSant0ss/Trabalho-DS-site-CIn-.git)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. Entre na pasta do projeto:
+   cd Trabalho-DS-site-CIn-
+
+3. Instale as depedências:
+   npm install
+
+4. Execute o servidor de desenvolvimento:
+   npm run dev
+
+5. Gere o build:
+   npm run build
