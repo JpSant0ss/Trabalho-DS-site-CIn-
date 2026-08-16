@@ -24,9 +24,6 @@ function App() {
 
     <p style= {{marginBottom: '35px'}}>Você pode entrar em contato comigo pelo e-mail:jpmcs@cin.ufpe.br</p>
 
-    <h2>Sobre mim:</h2>
-    <p></p>
-
     <h2>Portfólio:</h2>
 
     <h3> Projeto: Redesign do Prontuário Eletrônico SESAU (Uskara do Gusto)</h3>
